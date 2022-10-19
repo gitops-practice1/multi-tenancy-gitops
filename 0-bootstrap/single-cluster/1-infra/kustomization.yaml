@@ -23,6 +23,7 @@ resources:
 #- argocd/namespace-baas.yaml
 #- argocd/namespace-db2.yaml
 - argocd/namespace-rashad.yaml
+- argocd/namespace-raymentor.yaml
 #- argocd/namespace-mq.yaml
 #- argocd/namespace-b2bi-prod.yaml
 #- argocd/namespace-b2bi-nonprod.yaml
